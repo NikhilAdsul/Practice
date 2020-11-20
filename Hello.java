@@ -8,7 +8,7 @@ public class Hello
 	   {
 	      System.out.println("Hello Jenkins..."+i);
 	   }
-	    
+	    System.out.println("Good Job...");
 	}  
 	
 }
